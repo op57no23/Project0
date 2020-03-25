@@ -1,6 +1,6 @@
 # Project 0
 
-This is a simple website that displays information about my dog. It experimets with flexbox containers, bootstrap components, sass, and css styling.
+This is a simple website that displays information about my dog. It experiments with flexbox containers, bootstrap components, sass, and css styling.
 
 ## index.html
 
